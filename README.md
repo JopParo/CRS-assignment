@@ -1,2 +1,3 @@
 # CRS-assignment
-Computational research skills assignment
+Computational research skills assignment, Jop Paro (i6296849), Jan Jonker (i6278777), Valentin Piparo (i6228733), Radina Andreeva (i6168913)
+In this repository the code we used to do our analysis and write our report for the computational research skills assignment can be found. The assignment is regarding two different types of scheduling MRI's. The statistical analysis consists of an analysis of past data. In the descrete event simulation we use the variables found in the analysis to simulate the scheduling process so that we can give an advice to the hospital which type of scheduling is the best. 
